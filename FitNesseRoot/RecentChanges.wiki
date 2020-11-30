@@ -1,0 +1,12 @@
+|FrontPage.fitnessetest.SuitePage.Addition||15:52:50 Tue, Nov 24, 2020|
+|FrontPage.fitnessetest.SuitePage.Substraction||17:51:10 Mon, Nov 23, 2020|
+|FrontPage.fitnessetest.SuitePage.Multiplication||09:20:00 Fri, Nov 20, 2020|
+|FrontPage.fitnessetest.SuitePage.Division||09:18:55 Fri, Nov 20, 2020|
+|FrontPage.fitnessetest.SuitePage||11:32:00 Wed, Nov 18, 2020|
+|FrontPage.fitnessetest.Folder||11:25:25 Wed, Nov 18, 2020|
+|FrontPage.fitnessetest.Folder.TestCase2||10:18:19 Wed, Nov 18, 2020|
+|FrontPage.fitnessetest.Folder.testCase1||10:17:54 Wed, Nov 18, 2020|
+|FrontPage.fitnessetest.test1||19:37:29 Tue, Nov 17, 2020|
+|FrontPage.fitnessetest.test2||17:48:07 Tue, Nov 17, 2020|
+|FrontPage||17:45:01 Tue, Nov 17, 2020|
+|FrontPage.FitnesseTest||17:41:33 Tue, Nov 17, 2020|

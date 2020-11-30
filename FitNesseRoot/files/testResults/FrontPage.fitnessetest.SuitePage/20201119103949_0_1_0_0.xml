@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20200501</FitNesseVersion>
+  <rootPath>FrontPage.fitnessetest.SuitePage</rootPath>
+  <pageHistoryReference>
+    <name>FrontPage.fitnessetest.SuitePage.Multiplication</name>
+    <date>2020-11-19T10:39:49-06:00</date>
+    <pageHistoryLink>FrontPage.fitnessetest.SuitePage.Multiplication?pageHistory&amp;resultDate=20201119103949</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>2</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>183</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp C:\Fitnesse\fitnesse-standalone.jar;C:\Fitnesse fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>499</totalRunTimeInMillis>
+</suiteResults>
+

@@ -1,0 +1,21 @@
+---
+Suites: MultiplicationTag
+Test
+---
+!***< Hidden
+
+!define TEST_SYSTEM {slim}
+
+
+!path C:\Fitnesse
+*!
+
+
+!|Multiplication        |
+|Number1|Number2|Result?|
+|10     |2      |20.0   |
+|12.6   |3      |37.8   |
+|22     |7      |~=154.0|
+|9      |3      |<28    |
+|11     |2      |4<_<33 |
+|100    |4      |400.0  |

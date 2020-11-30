@@ -1,0 +1,30 @@
+---
+Test
+---
+!***< Hidden
+
+!define TEST_SYSTEM {slim}
+
+
+!path C:\Fitnesse
+*!
+
+
+!|Multiplication        |
+|Number1|Number2|Result?|
+|10     |2      |20.0   |
+|12.6   |3      |4.2    |
+|22     |7      |~=3.14 |
+|9      |3      |<28    |
+|11     |2      |4<_<33 |
+|100    |4      |400.0  |
+
+
+|eg.Division                    |
+|numerator|denominator|quotient?|
+|10       |2          |5.0      |
+|12.6     |3          |4.2      |
+|22       |7          |~=3.14   |
+|9        |3          |<5       |
+|11       |2          |4<_<6    |
+|100      |4          |33       |

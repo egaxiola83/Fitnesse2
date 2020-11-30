@@ -1,0 +1,21 @@
+---
+Test
+---
+!***< Hidden
+
+!define TEST_SYSTEM {slim}
+
+
+!path C:\Fitnesse
+*!
+
+
+
+!|Subtraction          |
+|Number1|Number2|Result?|
+|10     |2      |8.0    |
+|12.6   |3      |9.6    |
+|22     |7      |15.0   |
+|9      |3      |6.0    |
+|11     |2      |9.0    |
+|100    |4      |96.0   |

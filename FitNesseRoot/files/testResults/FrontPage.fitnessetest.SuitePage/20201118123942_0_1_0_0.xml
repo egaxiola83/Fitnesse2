@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20200501</FitNesseVersion>
+  <rootPath>FrontPage.fitnessetest.SuitePage</rootPath>
+  <pageHistoryReference>
+    <name>FrontPage.fitnessetest.SuitePage.Division</name>
+    <date>2020-11-18T12:39:42-06:00</date>
+    <pageHistoryLink>FrontPage.fitnessetest.SuitePage.Division?pageHistory&amp;resultDate=20201118123942</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>305</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp C:\Fitnesse\fitnesse-standalone.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>590</totalRunTimeInMillis>
+</suiteResults>
+
